@@ -1,0 +1,13 @@
+// Eric Guo's Sublime 2 User Key Bindings
+[
+	{ "keys": ["ctrl+0"], "command": "reset_font_size" },
+	{ "keys": ["alt+/"], "command": "auto_complete" },
+	{ "keys": ["alt+/"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	},
+	{ "keys": ["alt+shift+e"], "command": "open_folder_in_explorer" }
+]
