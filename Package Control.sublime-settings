@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1333024414,
+	"auto_upgrade_last_run": 1338861215,
 	"installed_packages":
 	[
 		"Alignment",
 		"GBK Encoding Support",
+		"Markdown Preview",
 		"Package Control"
 	]
 }

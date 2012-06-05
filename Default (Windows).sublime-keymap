@@ -9,5 +9,6 @@
 			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
 		]
 	},
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
 	{ "keys": ["alt+shift+e"], "command": "open_folder_in_explorer" }
 ]
