@@ -1,6 +1,5 @@
 // Eric Guo's Sublime 2 User Key Bindings
 [
-	{ "keys": ["ctrl+0"], "command": "reset_font_size" },
 	{ "keys": ["alt+/"], "command": "auto_complete" },
 	{ "keys": ["alt+/"], "command": "replace_completion_with_auto_complete", "context":
 		[
