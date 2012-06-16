@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ERB Insert and Toggle Commands",
 		"GBK Encoding Support",
 		"Git",
 		"HTML5",
