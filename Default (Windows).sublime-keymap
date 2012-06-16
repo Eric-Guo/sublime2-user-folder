@@ -8,6 +8,8 @@
 			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
 		]
 	},
-	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
-	{ "keys": ["alt+shift+e"], "command": "open_folder_in_explorer" }
+	{ "keys": ["super+ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+	{ "keys": ["super+ctrl+alt+s"], "command": "git_status" },
+	{ "keys": ["super+ctrl+alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
+	{ "keys": ["super+ctrl+alt+e"], "command": "open_folder_in_explorer" }
 ]
