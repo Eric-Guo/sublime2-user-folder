@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1339850595,
+	"auto_upgrade_last_run": 1340361098,
 	"installed_packages":
 	[
 		"Alignment",
@@ -9,6 +9,7 @@
 		"HTML5",
 		"Markdown Preview",
 		"Package Control",
+		"SideBarEnhancements",
 		"Simple Rails Navigator",
 		"SublimeCodeIntel"
 	]
