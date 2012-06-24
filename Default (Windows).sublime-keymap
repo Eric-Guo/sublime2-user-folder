@@ -17,9 +17,10 @@
 	{ "keys": ["super+ctrl+v"], "command": "list_rails_views" },
 	{ "keys": ["super+ctrl+i"], "command": "list_rails_javascripts" },
 	{ "keys": ["super+ctrl+y"], "command": "list_rails_stylesheets" },
+	{ "keys": ["ctrl+k", "ctrl+r"], "command": "rebuild_tags" },
 	{ "keys": ["ctrl+shift+."], "command": "erb", "context":
     [
       { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
     ]
-  }
+	}
 ]

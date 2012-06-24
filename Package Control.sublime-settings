@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1340361098,
+	"auto_upgrade_last_run": 1340499647,
 	"installed_packages":
 	[
 		"Alignment",
+		"CTags",
 		"ERB Insert and Toggle Commands",
 		"GBK Encoding Support",
 		"Git",
@@ -10,7 +11,6 @@
 		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements",
-		"Simple Rails Navigator",
-		"SublimeCodeIntel"
+		"Simple Rails Navigator"
 	]
 }
