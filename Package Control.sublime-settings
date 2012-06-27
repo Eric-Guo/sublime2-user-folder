@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1340499647,
+	"auto_upgrade_last_run": 1340812249,
 	"installed_packages":
 	[
 		"Alignment",
@@ -10,7 +10,8 @@
 		"HTML5",
 		"Markdown Preview",
 		"Package Control",
-		"SideBarEnhancements",
-		"Simple Rails Navigator"
+		"Rails Related Files",
+		"Simple Rails Navigator",
+		"Theme - Soda"
 	]
 }

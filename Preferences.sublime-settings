@@ -1,10 +1,7 @@
 {
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 10.0,
 	"ignored_packages":
 	[
-		"GBK Encoding Support",
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": true
