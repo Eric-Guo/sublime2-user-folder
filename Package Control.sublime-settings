@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1341062194,
+	"auto_upgrade_last_run": 1341134348,
 	"installed_packages":
 	[
 		"Alignment",
 		"CTags",
 		"ERB Insert and Toggle Commands",
 		"GBK Encoding Support",
+		"Gist",
 		"Git",
 		"HTML5",
 		"Markdown Preview",
