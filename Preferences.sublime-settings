@@ -1,9 +1,10 @@
 {
 	"close_windows_when_empty": true,
-	"theme": "Soda Dark.sublime-theme",
+	"font_size": 10.0,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
