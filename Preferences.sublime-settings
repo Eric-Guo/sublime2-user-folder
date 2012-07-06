@@ -5,6 +5,7 @@
 	[
 		"Vintage"
 	],
+	"save_on_focus_lost": true,
 	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
