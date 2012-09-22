@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1341134348,
+	"auto_upgrade_last_run": 1348324411,
 	"installed_packages":
 	[
 		"Alignment",
@@ -13,6 +13,7 @@
 		"Package Control",
 		"Rails Related Files",
 		"Simple Rails Navigator",
+		"SublimeEvernote",
 		"Theme - Soda"
 	]
 }
