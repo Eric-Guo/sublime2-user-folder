@@ -2,8 +2,9 @@
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	// download at http://sourceforge.net/projects/sourcecodepro.adobe/
-	"font_face": "Source Code Pro Light",
-	"font_options": ["no_round"],
+	// Install TTF in Windows, Install OTF in Mac
+	"font_face": "Source Code Pro",	 // For Mac Using "Source Code Pro Light"
+	// "font_options": ["no_round"], // For Mac
 	"font_size": 10.0,
 	"ignored_packages":
 	[
