@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1348324411,
+	"auto_upgrade_last_run": 1350050588,
 	"installed_packages":
 	[
 		"Alignment",
@@ -12,6 +12,7 @@
 		"Markdown Preview",
 		"Package Control",
 		"Rails Related Files",
+		"RubyFormat",
 		"Simple Rails Navigator",
 		"SublimeEvernote",
 		"Theme - Soda"
