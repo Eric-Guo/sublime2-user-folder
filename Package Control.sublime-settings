@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1350050588,
+	"auto_upgrade_last_run": 1350136471,
 	"installed_packages":
 	[
 		"Alignment",
+		"Auto Encoding for Ruby",
 		"CTags",
 		"ERB Insert and Toggle Commands",
 		"GBK Encoding Support",
