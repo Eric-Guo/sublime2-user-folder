@@ -1,0 +1,4 @@
+[
+    { "caption": "-", "id": "file" },
+    { "command": "open_url_in_browser", "caption": "Open in Firefox" }
+]
