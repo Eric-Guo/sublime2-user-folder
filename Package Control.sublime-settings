@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1350739428,
+	"auto_upgrade_last_run": 1350919944,
 	"installed_packages":
 	[
 		"Alignment",
@@ -14,6 +14,7 @@
 		"Markdown Preview",
 		"Package Control",
 		"Rails Related Files",
+		"RSpec",
 		"RubyFormat",
 		"Simple Rails Navigator",
 		"SublimeEvernote",
