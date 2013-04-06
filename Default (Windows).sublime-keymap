@@ -15,6 +15,7 @@
 	{ "keys": ["super+ctrl+alt+d"], "command": "git_checkout" },
 	{ "keys": ["super+ctrl+alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
 	{ "keys": ["super+ctrl+alt+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+	{ "keys": ["super+ctrl+l"], "command": "create_protocol_link", "args": {"protocol": "sblm"} },
 	{ "keys": ["super+ctrl+m"], "command": "list_rails_models" },
 	{ "keys": ["super+ctrl+c"], "command": "list_rails_controllers" },
 	{ "keys": ["super+ctrl+v"], "command": "list_rails_views" },
