@@ -8,6 +8,7 @@
 			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
 		]
 	},
+	{ "keys": ["ctrl+shift+r"], "command": "swi_debug" },
 	{ "keys": ["super+ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
 	{ "keys": ["super+ctrl+alt+s"], "command": "git_status" },
 	{ "keys": ["super+ctrl+alt+a"], "command": "git_add_choice" },
