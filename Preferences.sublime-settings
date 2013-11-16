@@ -1,6 +1,6 @@
 {
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
 	"detect_slow_plugins": false,
 	// download at http://sourceforge.net/projects/sourcecodepro.adobe/
 	// Install TTF in Windows, Install OTF in Mac
@@ -13,7 +13,7 @@
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
 }
